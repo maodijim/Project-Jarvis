@@ -8,7 +8,7 @@ Robot Arm uses machine learning and object recognition technology which can move
     ** Robotic arm controlled with gyro **
 Small Scale Test:
 
-![](https://i.imgur.com/qOAmObO.gif)
+<img src="/ezgif.com-video-to-gif.gif?raw=true">
 
 The arm was printed by a 3D printer designed by PawArmy
 https://www.thingiverse.com/thing:907281
